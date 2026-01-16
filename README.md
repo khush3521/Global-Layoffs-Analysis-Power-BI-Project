@@ -43,3 +43,20 @@ high-risk sectors, and year-over-year changes using interactive visuals.
 
 - DEEP ANALYSIS
 - https://github.com/khush3521/Global-Layoffs-Analysis-Power-BI-Project/blob/main/Screenshot%202026-01-16%20140622.png 
+
+##  Key Insights
+- Significant layoffs observed during 2020 and 2022
+- Technology sector experienced the highest layoffs
+- USA is the most affected country
+- YoY growth highlights periods of rapid workforce reduction
+
+---
+
+##  Author
+**Khush Panchal**  
+Aspiring Data Analyst | Power BI | Data Visualization
+
+---
+
+##  Feedback
+Feedback and suggestions are welcome. Feel free to connect with me on LinkedIn.
