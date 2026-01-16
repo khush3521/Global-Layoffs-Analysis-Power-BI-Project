@@ -39,7 +39,7 @@ high-risk sectors, and year-over-year changes using interactive visuals.
 
 - Dashboard Preview
 - Executive Overview
-https://github.com/khush3521/Global-Layoffs-Analysis-Power-BI-Project/blob/main/Screenshot%202026-01-16%20140403.png
+- https://github.com/khush3521/Global-Layoffs-Analysis-Power-BI-Project/blob/main/Screenshot%202026-01-16%20140403.png
 
 - DEEP ANALYSIS
-- 
+- https://github.com/khush3521/Global-Layoffs-Analysis-Power-BI-Project/blob/main/Screenshot%202026-01-16%20140622.png 
