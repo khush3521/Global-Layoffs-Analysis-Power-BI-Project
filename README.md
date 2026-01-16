@@ -1,13 +1,13 @@
-# 🌍 Global Layoffs Analysis – Power BI Dashboard
+#  Global Layoffs Analysis – Power BI Dashboard
 
-## 📌 Project Overview
+##  Project Overview
 This project presents an end-to-end Power BI dashboard analyzing global layoffs
 across countries, industries, and companies. The goal is to identify trends,
 high-risk sectors, and year-over-year changes using interactive visuals.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 - Analyze layoffs trends over time
 - Identify top affected countries and industries
 - Perform company-level layoffs analysis
@@ -16,7 +16,7 @@ high-risk sectors, and year-over-year changes using interactive visuals.
 
 ---
 
-## 🛠 Tools & Technologies
+##  Tools & Technologies
 - Power BI
 - DAX
 - Data Modeling
@@ -24,7 +24,7 @@ high-risk sectors, and year-over-year changes using interactive visuals.
 
 ---
 
-## 📊 Dashboard Features
+##  Dashboard Features
 - KPI Cards:
   - Total Layoffs
   - Companies Impacted
@@ -37,3 +37,9 @@ high-risk sectors, and year-over-year changes using interactive visuals.
 - Year-over-Year (YoY) Growth
 - Interactive slicers (Country, Year, Location)
 
+- Dashboard Preview
+- Executive Overview
+https://github.com/khush3521/Global-Layoffs-Analysis-Power-BI-Project/blob/main/Screenshot%202026-01-16%20140403.png
+
+- DEEP ANALYSIS
+- 
